@@ -31,3 +31,21 @@ Confirm Block Transactions
 <img width="814" alt="Confirm_Block_Transactions" src="https://user-images.githubusercontent.com/93550651/170846027-548149cb-6a71-4664-a39f-c784a52b621e.png">
 
 buyTokens
+
+Gas estimation failed error
+
+<img width="814" alt="Gas_estimation_failed_error" src="https://user-images.githubusercontent.com/93550651/170846139-6c1c2f8a-18a2-48bc-89ff-c84ba14c0d67.png">
+
+Clicked Send Transaction, MetaMask Notification pops up to push transaction
+
+<img width="378" alt="MetaMask_notification_Gas" src="https://user-images.githubusercontent.com/93550651/170846196-e1157196-5987-456a-8ab9-e4e941b30d66.png">
+
+Transaction Error
+
+<img width="1613" alt="buyToken_Error" src="https://user-images.githubusercontent.com/93550651/170846253-8a0072da-eec9-4299-92e1-e03d25c83453.png">
+
+
+Error text reads
+transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"message":"VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role","code":-32000,"data":{"0xaf0023eaa411a69800385b7f595596124e0f237bec19d34bc6fdf18e3bbf25f6":{"error":"revert","program_counter":1786,"return":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000304d696e746572526f6c653a2063616c6c657220646f6573206e6f74206861766520746865204d696e74657220726f6c6500000000000000000000000000000000","reason":"MinterRole: caller does not have the Minter role"},"stack":"RuntimeError: VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role\n    at Function.RuntimeError.fromResults (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/utils/runtimeerror.js:94:13)\n    at BlockchainDouble.processBlock (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/blockchain_double.js:627:24)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","name":"RuntimeError"}}}}'
+
+
