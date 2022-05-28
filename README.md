@@ -3,8 +3,8 @@ Create a fungible token that is ERC-20 compliant and that will be minted by usin
 
 # Evaluation Evidence
 
-Compiled Contract
-<img width="1657" alt="Compiled_Contract" src="https://user-images.githubusercontent.com/93550651/169707233-a6141348-2c84-42e0-adee-5647a5d80691.png">
+Compiled KaseiCoin Contract
 
-Compiled Crowdsale
-<img width="1657" alt="Compiled_Crowdsale" src="https://user-images.githubusercontent.com/93550651/169709926-6825b966-9fe8-466b-a3f4-840fc77f1c5e.png">
+<img width="1616" alt="Compile_KaseiCoin_Contract" src="https://user-images.githubusercontent.com/93550651/170845364-87bebe4b-0a9f-43a1-9eeb-8a87ddeea07f.png">
+
+
