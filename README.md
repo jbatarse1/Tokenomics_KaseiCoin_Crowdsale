@@ -60,6 +60,16 @@ Error text reads
 
 transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"message":"VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role","code":-32000,"data":{"0xaf0023eaa411a69800385b7f595596124e0f237bec19d34bc6fdf18e3bbf25f6":{"error":"revert","program_counter":1786,"return":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000304d696e746572526f6c653a2063616c6c657220646f6573206e6f74206861766520746865204d696e74657220726f6c6500000000000000000000000000000000","reason":"MinterRole: caller does not have the Minter role"},"stack":"RuntimeError: VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role\n    at Function.RuntimeError.fromResults (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/utils/runtimeerror.js:94:13)\n    at BlockchainDouble.processBlock (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/blockchain_double.js:627:24)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","name":"RuntimeError"}}}}'
 
+# Conclusion
+
+I have attempted to transact these contracts successfully numerous attempts to no avail. This Lesson and Challenge have been most difficult and complicated. Having to spend extra time to troubleshoot the issues, I attended 2 office hours and asked the class; but, was not able to work out the ‘Gas estimation failed’.
+
+I am frustrated, disappointed and unhappy that I am unable to complete lesson activity 21.3.6 and the Challenge without success. Similar problem exists when I attempt to transact ‘buyToken’. I even started from scratch to ensure I did not make mistake and followed the instructions to the letter. I watched the videos several times and rewatched the Virtual Class 1 and 2. Still, I am not able to determine the failure here.
+
+Not being able to successfully transact with the contracts has reduced my level of confidence in understanding Tokenomics and Blockchain. I have completed all of the assignments and have strive to do a good job; so, my experience with this last assignment is unsatisfactory. Today there is no scheduled Office Hours due to the Memorial Holiday; however, this assignment is still due tomorrow. 
+
+Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course.
+
 
 # Contributors
 Contributor: John Batarse
