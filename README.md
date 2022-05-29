@@ -42,10 +42,10 @@ Clicked Send Transaction, MetaMask Notification pops up to push transaction
 
 Transaction Error
 
-<img width="1613" alt="buyToken_Error" src="https://user-images.githubusercontent.com/93550651/170846253-8a0072da-eec9-4299-92e1-e03d25c83453.png">
-
+<img width="1613" alt="transact_error_messages" src="https://user-images.githubusercontent.com/93550651/170846591-dc9b3710-6adb-4b08-a914-d558527f8901.png">
 
 Error text reads
+
 transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"message":"VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role","code":-32000,"data":{"0xaf0023eaa411a69800385b7f595596124e0f237bec19d34bc6fdf18e3bbf25f6":{"error":"revert","program_counter":1786,"return":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000304d696e746572526f6c653a2063616c6c657220646f6573206e6f74206861766520746865204d696e74657220726f6c6500000000000000000000000000000000","reason":"MinterRole: caller does not have the Minter role"},"stack":"RuntimeError: VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role\n    at Function.RuntimeError.fromResults (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/utils/runtimeerror.js:94:13)\n    at BlockchainDouble.processBlock (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/blockchain_double.js:627:24)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","name":"RuntimeError"}}}}'
 
 
