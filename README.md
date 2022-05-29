@@ -62,11 +62,11 @@ transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting
 
 # Conclusion
 
-I have attempted to transact these contracts successfully numerous attempts to no avail. This Lesson and Challenge have been most difficult and complicated. Having to spend extra time to troubleshoot the issues, I attended 2 office hours and asked the class; but, was not able to work out the ‘Gas estimation failed’.
+I have attempted to transact these contracts successfully numerous attempts to no avail. This Lesson and Challenge have been most difficult and complicated. Having to spend extra time to troubleshoot the issues, I attended 2 office hours and asked the class; but, was not able to work out the ‘Gas estimation failed’. Instructor demonstrated another method to buy tokens via Jupiter Lab and interacting with web3.
 
 I am frustrated, disappointed and unhappy that I am unable to complete lesson activity 21.3.6 and the Challenge without success. Similar problem exists when I attempt to transact ‘buyToken’. I even started from scratch to ensure I did not make mistake and followed the instructions to the letter. I watched the videos several times and rewatched the Virtual Class 1 and 2. Still, I am not able to determine the failure here.
 
-Not being able to successfully transact with the contracts has reduced my level of confidence in understanding Tokenomics and Blockchain. I have completed all of the assignments and have strive to do a good job; so, my experience with this last assignment is unsatisfactory. Today there is no scheduled Office Hours due to the Memorial Holiday; however, this assignment is still due tomorrow. 
+Not being able to successfully transact with the contracts has reduced my level of confidence in understanding Tokenomics and Blockchain. I have completed all of the assignments and have strive to do a good job; so, my experience with this last assignment is unsatisfactory. Today, Saturday, there is no scheduled Office Hours due to the Memorial Holiday; however, this assignment is still due tomorrow. Technically, I do not have to complete it since 2 assigments scores are waived; however, I am here to learn everything I possibly can from this course.
 
 Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course.
 
