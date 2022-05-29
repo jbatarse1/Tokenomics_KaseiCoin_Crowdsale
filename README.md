@@ -1,5 +1,17 @@
 # Tokenomics_KaseiCoin_Crowdsale
+
 Create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library
+
+# Technologies
+
+## Import the required libraries and dependencies
+
+# Installation Guide
+
+# Usage
+
+
+
 
 # Evaluation Evidence
 
@@ -49,3 +61,19 @@ Error text reads
 transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"message":"VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role","code":-32000,"data":{"0xaf0023eaa411a69800385b7f595596124e0f237bec19d34bc6fdf18e3bbf25f6":{"error":"revert","program_counter":1786,"return":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000304d696e746572526f6c653a2063616c6c657220646f6573206e6f74206861766520746865204d696e74657220726f6c6500000000000000000000000000000000","reason":"MinterRole: caller does not have the Minter role"},"stack":"RuntimeError: VM Exception while processing transaction: revert MinterRole: caller does not have the Minter role\n    at Function.RuntimeError.fromResults (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/utils/runtimeerror.js:94:13)\n    at BlockchainDouble.processBlock (/Applications/Ganache.app/Contents/Resources/static/node/node_modules/ganache-core/lib/blockchain_double.js:627:24)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","name":"RuntimeError"}}}}'
 
 
+<<<<<<< Updated upstream
+=======
+Compiled Crowdsale
+<img width="1657" alt="Compiled_Crowdsale" src="https://user-images.githubusercontent.com/93550651/169709926-6825b966-9fe8-466b-a3f4-840fc77f1c5e.png">
+
+
+# Contributors
+Contributor: John Batarse
+
+Email: jbatarse@hotmail.com
+
+LinkedIn: Find me on LinkedIn
+
+ # License
+Trilogy Education LLC. and UC Berkeley
+>>>>>>> Stashed changes
