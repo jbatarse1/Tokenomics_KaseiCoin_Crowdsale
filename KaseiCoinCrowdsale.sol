@@ -5,21 +5,18 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
 
 
-// Have the KaseiCoinCrowdsale contract inherit the following OpenZeppelin:
+// Bootstrap the KaseiCoinCrowdsale contract by inheriting the following OpenZeppelin:
 // * Crowdsale
 // * MintedCrowdsale
-contract KaseiCoinCrowdsale { // UPDATE THE CONTRACT SIGNATURE TO ADD INHERITANCE
+contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale {
     
     // Provide parameters for all of the features of your crowdsale, such as the `rate`, `wallet` for fundraising, and `token`.
     constructor(
-         uint256 rate, // TKNbits rate
-        address payable wallet, // receiver of proceeds
-        KaseiCoin token // Coin for crowdsale
-    ) 
-        KaseiCoinCrowdsale(rate, wallet, token) 
-        public
-     {
-        // empty constructor is okay
+        uint256 rate, // rate in TKNbits
+        address payable wallet, // sale beneficiary
+        KaseiCoin token // the KaseiCoin itself that the KaseiCoinCrowdsale will work with
+    ) public Crowdsale(rate, wallet, token) {
+        // constructor can stay empty
     }
 }
 
@@ -38,7 +35,7 @@ contract KaseiCoinCrowdsaleDeployer {
     ) public {
         // Create a new instance of the KaseiCoin contract.
         KaseiCoin token = new KaseiCoin(name, symbol, 0);
-
+        
         // Assign the token contract’s address to the `kasei_token_address` variable.
         kasei_token_address = address(token);
 
