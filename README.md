@@ -68,7 +68,7 @@ I am frustrated, disappointed and unhappy that I am unable to complete lesson ac
 
 Not being able to successfully transact with the contracts has reduced my level of confidence in understanding Tokenomics and Blockchain. I have completed all of the assignments and have strive to do a good job; so, my experience with this last assignment is unsatisfactory. Today, Saturday, there is no scheduled Office Hours due to the Memorial Holiday; however, this assignment is still due tomorrow. Technically, I do not have to complete it since 2 assigments scores are waived; however, I am here to learn everything I possibly can from this course.
 
-Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course.
+Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course completely.
 
 
 # Contributors
