@@ -81,7 +81,7 @@ transact to KaseiCoinCrowdsale.buyTokens errored: [ethjs-query] while formatting
 
 # Conclusion
 
-I have attempted to transact these contracts successfully numerous attempts to no avail. This Lesson and Challenge have been most difficult and complicated. Having to spend extra time to troubleshoot the issues, I attended 2 office hours and asked the class; but, was not able to work out the ‘Gas estimation failed’. Instructor demonstrated another method to buy tokens via Jupiter Lab and interacting with web3; but is completely different from the lesson activity and challenge instructions. Therefore, I am not sure with method to perform. I should be able to perform both.
+I have attempted to transact these contracts successfully numerous attempts to no avail. This Lesson and Challenge have been most difficult and complicated to complete successfully. Having to spend extra time to troubleshoot the issues, I attended 2 office hours and asked the class; but, was not able to work out the ‘Gas estimation failed’. Instructor demonstrated another method to buy tokens via Jupiter Lab and interacting with web3; but is completely different from the lesson activity and challenge instructions. Therefore, I am not sure with method to perform. I should be able to perform both.
 
 I am frustrated, disappointed and unhappy that I am unable to complete lesson activity 21.3.6 and the Challenge without success. Similar problem exists when I attempt to transact ‘buyToken’. I even started from scratch to ensure I did not make mistake and followed the instructions to the letter. I watched the videos several times and rewatched the Virtual Class 1 and 2. Still, I am not able to determine the failure here.
 
@@ -89,7 +89,7 @@ Not being able to successfully transact with the contracts has reduced my level 
 
 Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course satisfactorily.
 
-Lastly, I attempted to transact with the 3 deployed contracts. The contracts appears to run independently from eachother. A transaction perform on 1 contract does not reflect in the other contracts. However, I did experiments with the contracts and performed other transactions successfully (I think, but not totally sure it was done right). These transactions can be view in the `KaseiCoin_Screenshots` folder.
+Lastly, I attempted to transact with the 3 deployed contracts. The contracts appears to run independently from eachother. A transaction performed on 1 contract does not reflect in the other contracts. However, I did experiments with the contracts and performed other transactions successfully (I think, but not totally sure it was done right). These transactions can be view in the `KaseiCoin_Screenshots` folder.
 
 
 # Contributors
@@ -97,7 +97,6 @@ Contributor: John Batarse
 
 Email: jbatarse@hotmail.com
 
-LinkedIn: Find me on LinkedIn
 
  # License
 Trilogy Education LLC. and UC Berkeley
