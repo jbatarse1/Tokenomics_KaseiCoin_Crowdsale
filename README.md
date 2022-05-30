@@ -4,13 +4,26 @@ Create a fungible token that is ERC-20 compliant and that will be minted by usin
 
 # Technologies
 
+Solidity,
+Remix,
+Ganache,
+MetaMask
+
 ## Import the required libraries and dependencies
 
-# Installation Guide
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
+
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
 
 # Usage
 
-
+1. Go to remix.ethereum.org and upload KaseiCoin.sol and KaseiCoinCrowdsale.sol in workspace,
+2. Launch Ganache and click Quickstart and save workspace,
+3. Download the MetaMask extension in Chrome. Create new Network and import 2 accounts by linking Ganache private keys,
+4. Compile contracts,
+5. Run and Deploy contracts
+6. Select Environment to be `Injected Web3`
+6. Perform transactions.
 
 
 # Evaluation Evidence
@@ -69,6 +82,8 @@ I am frustrated, disappointed and unhappy that I am unable to complete lesson ac
 Not being able to successfully transact with the contracts has reduced my level of confidence in understanding Tokenomics and Blockchain. I have completed all of the assignments and have strive to do a good job; so, my experience with this last assignment is unsatisfactory. Today, Saturday, there is no scheduled Office Hours due to the Memorial Holiday; however, this assignment is still due tomorrow. Technically, I do not have to complete it since 2 assigments scores are waived; however, I am here to learn everything I possibly can from this course.
 
 Without successfully completing this Challenge, I am not able to perform Module 22 dApps successfully either; as the structure of NFTs on the blockchain is similar. Now, there is no challenge for the last lesson; so I don’t know what to do here. In addition, my Group Project 3 is to tokenize a non-fungible token and conduct a crowdsale. My inability to transact with these contracts and to figure out this challenge is a hinderance to completing this course satisfactorily.
+
+Lastly, I attempted to transact with the 3 deployed contracts. The contracts appears to run independently from eachother. A transaction perform on 1 contract does not reflect in the other contracts. However, I did experiments with the contracts and performed other transactions successfully (I think, but not totally sure it was done right). These transactions can be view in the `KaseiCoin_Screenshots` folder.
 
 
 # Contributors
